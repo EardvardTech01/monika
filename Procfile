@@ -1,2 +1,2 @@
 web: node monika/index.js
-web: python monika/flask.py
+web: python monika/monika_app.py
