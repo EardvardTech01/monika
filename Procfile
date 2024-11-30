@@ -1,1 +1,1 @@
-web: node -v && node monika/index.js
+web: node -v && node monika/monika.js
