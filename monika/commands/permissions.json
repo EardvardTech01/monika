@@ -1,0 +1,12 @@
+{
+    "950792551697358888": {
+        "can_send_message": false
+    },
+    "1302167608916967444": {
+        "can_send_message": false,
+        "can_send_pictures": false
+    },
+    "1209203729509785600": {
+        "can_send_message": true
+    }
+}
