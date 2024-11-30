@@ -1,12 +1,12 @@
 import random
-from monika import channels
+import channels
 
 # List of functions
 CatagorysList = [
     channels.HentaiTags,
     channels.Anime,
     channels.MarvelComics,
-    channels.DCComics,
+    channels.DCComics, 
     channels.StarWars,
     channels.SpecificCharacters,
     channels.FutanariandFemboys,

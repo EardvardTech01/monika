@@ -1,1 +1,0 @@
-web: node -v && node monika.js
